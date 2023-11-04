@@ -1,5 +1,4 @@
 export default function App() {
-  //aaaaaaaaaaaaaaaaaaaaaaaa
   return (
     <div className="app">
       <Logo />
